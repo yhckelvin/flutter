@@ -1,6 +1,13 @@
 # time_tracker_flutter_course
 
 A new Flutter project.
+Hi, if you are learning from Andrea flutter time tracker.
+
+You found that it is using flutter old version where raised button is used.
+
+Hence, I have learned and used elevated button instead of raised button for reusable coding.
+
+Praise God it is finally solved for reusable coding.
 
 ## Getting Started
 
